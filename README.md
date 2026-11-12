@@ -1,4 +1,4 @@
-# CodeAlpha Data Analytics Internship — Task 2: Exploratory Data Analysis (EDA)
+# CodeAlpha Data Analytics Internship — Task : Exploratory Data Analysis (EDA)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?logo=pandas)
